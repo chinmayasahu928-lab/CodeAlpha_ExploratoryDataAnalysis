@@ -45,7 +45,6 @@ The dataset contains information about:
 
 The analysis helps understand **book prices, ratings, availability, and their patterns**.
 
-## 📁 Files
 
 
 
